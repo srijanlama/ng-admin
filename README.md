@@ -19,5 +19,7 @@ ng serve --open
 
 ```
 ng build --prod
+cd dist 
+php -S localhost:8000
 ```
 
