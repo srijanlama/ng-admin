@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Project Setup
 
 ```
-npm install -g @angular/cli@12.1.4
+npm install -g @angular/cli@12.1.3
 npm install 
 ```
 
